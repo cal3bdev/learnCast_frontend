@@ -3,7 +3,7 @@ import type { Metadata } from 'next';
 import { GeistSans } from 'geist/font/sans';
 
 export const metadata: Metadata = {
-  title: 'AI Podcast Generator',
+  title: 'LearnCast',
   description: 'Generate AI-powered podcasts with ease',
 };
 
